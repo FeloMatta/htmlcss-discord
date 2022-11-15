@@ -16,7 +16,7 @@
 
 
 .container{
-    background-color: #add8e6;
+    /* background-color: #add8e6; */
     width: 80%;
     max-width: 1000px;
     margin: 0 auto;
@@ -37,8 +37,8 @@
 } */
 
 .container-link{
-    border-left: dashed;
-    border-right: dashed;
+    /* border-left: dashed;
+    border-right: dashed; */
     padding-left: 20%;
     padding-right: 20%;
     display: flex;
@@ -97,7 +97,7 @@ header p{
     border: none;   
     font-family: 'Whitney', sans-serif;
     font-size: 1.5em;
-    margin-top: 10px;
+    margin-top: 20px;
     text-align: center;
 }
 
@@ -117,7 +117,7 @@ header p{
 
 .box1{
     /* background-color: #ee82ee; */
-    border: 2px dashed;
+    /* border: 2px dashed; */
     height: 320px;
     width: 50%;
 }
@@ -132,21 +132,21 @@ header p{
 }
 
 .box2{
-    background-color: #1e90ff;
+    /* background-color: #1e90ff; */
 
     height: 400px;
     width: 70%;
-    border: 2px dashed;
+    /* border: 2px dashed; */
 }
 
 .box2-2{
     /* background-color: #ffc0cb; */
     height: 400px;
     width: 30%;
-    border: 2px dashed;
-    text-align: center;
+    /* border: 2px dashed; */
+    text-align: left;
     color: black;
-    font-size: 2em;
+    font-size: 1.3em;
     font-family: 'Whitney', sans-serif;
 }
 
@@ -161,19 +161,23 @@ header p{
 }
 
 .box3{
-    background-color: #1e90ff;
+    /* background-color: #1e90ff; */
     margin-top: 10px;
     margin-bottom: 10px;
     height: 400px;
     width: 30%;
-    border: 2px dashed;
+    /* border: 2px dashed; */
 }
 
 .box3-3{
-    background-color: #ffc0cb;
+    /* background-color: #ffc0cb; */
     height: 400px;
     width: 20%;
-    border: 2px dashed;
+    /* border: 2px dashed; */
+    text-align: left;
+    color: black;
+    font-size: 2em;
+    font-family: 'Whitney', sans-serif;
 }
 
 .box-background4{
